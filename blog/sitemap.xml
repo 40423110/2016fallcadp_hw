@@ -5,76 +5,97 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-01-12T15:51:23-00:00</lastmod>
+<lastmod>2017-01-17T21:53:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-01-12T15:51:23-00:00</lastmod>
+<lastmod>2017-01-17T21:53:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-01-12T15:51:23-00:00</lastmod>
+<lastmod>2017-01-17T21:53:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-01-12T15:51:23-00:00</lastmod>
+<lastmod>2017-01-17T21:53:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about/</loc>
-<lastmod>2017-01-12T14:31:50+08:00</lastmod>
+<lastmod>2017-01-17T21:09:53+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40423110-w18-dian-nao-fu-zhu-she-ji-qi-mo-zong-jie.html</loc>
+<loc>./105-ke-cheng-zong-jie.html</loc>
+<lastmod>2017-01-17T22:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./ying-pian-tong-zheng.html</loc>
+<lastmod>2017-01-17T22:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./w18-dian-nao-fu-zhu-she-ji-qi-mo-zong-jie.html</loc>
 <lastmod>2017-01-12T14:30:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40423110-1220zuo-ye.html</loc>
+<loc>./1228zuo-ye.html</loc>
+<lastmod>2016-12-28T22:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./1220zuo-ye.html</loc>
 <lastmod>2016-12-20T12:08:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40423110-onshapefen-zu-zuo-ye.html</loc>
+<loc>./onshapefen-zu-zuo-ye.html</loc>
 <lastmod>2016-12-08T12:08:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40423110-1124zuo-ye.html</loc>
+<loc>./1124zuo-ye.html</loc>
 <lastmod>2016-11-24T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40423110-si-lian-gan-ji-gou.html</loc>
+<loc>./si-lian-gan-ji-gou.html</loc>
 <lastmod>2016-11-17T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40423110-w7-si-lian-gan-ji-gou-mo-ni.html</loc>
+<loc>./w7-si-lian-gan-ji-gou-mo-ni.html</loc>
 <lastmod>2016-10-27T12:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -103,7 +124,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/misc.html</loc>
-<lastmod>2017-01-12T14:30:00+08:06</lastmod>
+<lastmod>2017-01-17T22:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -123,6 +144,27 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./tag/solvespace.html</loc>
+<lastmod>2017-01-17T22:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/fourbar.html</loc>
+<lastmod>2017-01-12T14:30:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/zuo-ye.html</loc>
+<lastmod>2016-12-20T12:08:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./tag/biao-da-neng-li.html</loc>
 <lastmod>2016-09-02T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -137,13 +179,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/fourbar.html</loc>
-<lastmod>2017-01-12T14:30:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>./tag/chuang-zao-li.html</loc>
 <lastmod>2016-09-02T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -151,15 +186,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/zuo-ye.html</loc>
-<lastmod>2016-12-20T12:08:00+08:06</lastmod>
+<loc>./tag/ke-cheng-zong-zheng-li.html</loc>
+<lastmod>2017-01-17T22:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/onshape.html</loc>
+<lastmod>2016-12-28T22:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/40423110.html</loc>
-<lastmod>2016-12-20T12:08:00+08:06</lastmod>
+<lastmod>2017-01-17T22:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
